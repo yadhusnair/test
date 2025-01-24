@@ -1,3 +1,1 @@
-hello
-hi
-hi how are you dear
+hi how are you
